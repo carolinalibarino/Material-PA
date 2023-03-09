@@ -20,5 +20,5 @@ leia (Comb)
 Med <- Comb/Dist
 
 // SAÍDA
-escreval (" A média de combustível gasto é: " ‚Med)
+escreval (" A média de combustível gasto é: "‚Med)
 fimalgoritmo
