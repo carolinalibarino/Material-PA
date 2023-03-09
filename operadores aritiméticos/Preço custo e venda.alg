@@ -17,7 +17,7 @@ leia (Custo)
 
 //PROCESSAMENTO
 Porcentagem <- Custo*0.65
-Venda <- porcentadem * custo
+Venda <- porcentagem * custo
 
 // SAÍDA
 escreval ("O valor da venda do produto é:", Venda)
