@@ -1,6 +1,6 @@
 algoritmo "juros da mensalidade"
 // Diciplina: PA
-//Professora: Cíntia
+//Professora: CÃ­ntia
 //Turma: A
 // Data : 09/03/2023
 // Nome: Carolina
@@ -10,7 +10,7 @@ mesp: caractere
 
 //ENTRADA
 inicio
-escreval ("Mês do pagamento:" )
+escreval ("MÃªs do pagamento:" )
 leia (mesp)
 escreval ("Valor da mensalidade: ")
 leia (valorm)
@@ -20,6 +20,6 @@ leia (diasat)
 //PROCESSAMENTO
 mensatu <- (diasat*0.02*valorm) +valorm
 
-// SAÍDA
-escreval ("Sua mensalidade atualizada é :", mensatu)
+// SAÃDA
+escreval ("Sua mensalidade atualizada Ã© :", mensatu)
 fimalgoritmo
