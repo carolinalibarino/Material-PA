@@ -1,23 +1,24 @@
+algoritmo "combust√≠vel"
+// Diciplina: PA
+//Professora: C√≠ntia
 //Turma: A
-// Data : 02/03/2023
-// Nome:Carolina
-yar
+// Data : 09/03/2023
+// Nome: Carolina
+var
 Dist: real
 Comb: real
 Med : real
 
 //ENTRADA
 inicio
-escreva ("Escreva a dist‚ncia percorrida: ")
+escreva ("Escreva a dist√¢ncia percorrida: ")
 leia (Dist)
-escreval ("Escreva a quantidade de combustÌvel gasta: ")
+escreval ("Escreva a quantidade de combust√≠vel gasta: ")
 leia (Comb)
 
 //PROCESSAMENTO
 Med <- Comb/Dist
 
-// SAÕDA
-escreval (" A mÈdia de combustÌvel gasto È: " ÇMed)
+// SA√çDA
+escreval (" A m√©dia de combust√≠vel gasto √©: " ‚ÄöMed)
 fimalgoritmo
-
-
