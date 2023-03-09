@@ -1,6 +1,6 @@
 algoritmo "dolar para real"
 // Diciplina: PA
-//Professora: Cíntia
+//Professora: CÃ­ntia
 //Turma: A
 // Data : 09/03/2023
 // Nome: Carolina
@@ -8,12 +8,12 @@ var
 rela, cota, dolar: real
 inicio
 //entrada
-escreval (" Digite o valor em dólar:")
+escreval (" Digite o valor em dÃ³lar:")
 leia (dolar)
-escreval ("Valor da cotação:")
+escreval ("Valor da cotaÃ§Ã£o:")
 leia (cota)
 /processamento
 rela <- (cota^dolar)
-/ Saída
-escreval ("O valor em real é: ",rela )
+/ SaÃ­da
+escreval ("O valor em real Ã©: ",rela )
 fimalgoritmo
