@@ -13,13 +13,13 @@ inicio
 escreva ("Digite nome do produto: ")
 leia (NomeP)
 escreval (" Digite o valor do produto: ")
-leia Custo)
+leia (Custo)
 
 //PROCESSAMENTO
 Porcentagem <- Custo*0.65
 Venda <- porcentadem * custo
 
-// SAÍDA
-escreval ("O valor da venda do produto é:", Venda)
+// SAÃDA
+escreval ("O valor da venda do produto Ã©:", Venda)
 
 fimalgoritmo
