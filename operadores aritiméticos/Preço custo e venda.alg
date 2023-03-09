@@ -1,4 +1,4 @@
-algoritmo "AreaDoQuadrado"
+algoritmo "CustoEvenda"
 // Diciplina:PA
 // Professora : Cintia
 //Turma: A
