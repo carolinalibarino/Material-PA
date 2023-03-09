@@ -1,8 +1,9 @@
 algoritmo "Quadrado"
-// Função : calcular a área e perímetro de um quadrado
-// Autor : Carolina Libarino
-// Data : 23/02/2023
-// Seção de Declarações 
+// Diciplina: PA
+//Professora: CÃ­ntia
+//Turma: A
+// Data : 09/03/2023
+// Nome: Carolina 
 var
 
 ladoQ,resulA,resulP: real
@@ -13,7 +14,7 @@ inicio
 escreval("digite seu nome:")
 leia (nome)
 
-escreval ("Vamos calcular a área e o perímetro:")
+escreval ("Vamos calcular a Ã¡rea e o perÃ­metro:")
 escreval("----------------------")
 escreval("digite seu lado")
 leia (ladoQ)
@@ -22,10 +23,10 @@ resulA<- ladoQ^2
 resulP<- ladoQ*4
 
 
-//saída
+//saÃ­da
 escreval ("------------RESULTADO------------")
 escreval (nome, ",BEM VINDO (a) ao Programa!")
-escreval ("A área do quadrdao é: ",resulA )
-escreval ("O perímetro do quadrado é: ",resulP)
+escreval ("A Ã¡rea do quadrdao Ã©: ",resulA )
+escreval ("O perÃ­metro do quadrado Ã©: ",resulP)
 
 fimalgoritmo
