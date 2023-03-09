@@ -1,6 +1,6 @@
-algoritmo "Convers„oDeCelsiusEmFahrenheit "
+algoritmo "Convers√£oDeCelsiusEmFahrenheit "
 // Diciplina: PA
-//Professora: CÌntia
+//Professora: C√≠ntia
 //Turma: A
 // Data : 09/03/2023
 // Nome: Carolina
@@ -16,8 +16,8 @@ leia (tempC)
 //processamento
 tempF <-(9*tempC+160)/5
 
-//saÌda
-escreval ("A temperatura em Fahrenheit È", tempF)
+//sa√≠da
+escreval ("A temperatura em Fahrenheit √©", tempF)
 
-// SeÁ„o de Comandos 
+// Se√ß√£o de Comandos 
 fimalgoritmo
