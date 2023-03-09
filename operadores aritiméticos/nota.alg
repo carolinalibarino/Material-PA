@@ -1,8 +1,9 @@
 algoritmo "nota"
-// Função :
-// Autor :
+// Diciplina: PA
+//Professora: CÃ­ntia
+//Turma: A
 // Data : 09/03/2023
-// Seção de Declarações 
+// Nome: Carolina
 var
 Notal, Nota2, Nota3: real
 nome: caractere
@@ -21,9 +22,9 @@ leia (Nota3)
 
 //PROCESSAMENTO
 Med <- (Notal+Nota2+Nota3)/3
-// SAÍDA
-escreval (nome, ", sua nota é: ", Med )
+// SAÃDA
+escreval (nome, ", sua nota Ã©: ", Med )
 fimalgoritmo
 inicio
-// Seção de Comandos 
+// SeÃ§Ã£o de Comandos 
 fimalgoritmo
