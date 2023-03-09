@@ -1,6 +1,6 @@
 algoritmo "AreaEperimetroDoRetangulo'
 // Diciplina:  PA
-//Professora: CÌntia
+//Professora: C√≠ntia
 //Turma: A
 //Data: 02/03/2023
 //Nome: Carolina
@@ -11,10 +11,10 @@ altu, larg, resulA, resulP: real
 
 //ENTRADA
 inicio
-escreval ("Digite o valor da largura do ret‚ngulo: ")
+escreval ("Digite o valor da largura do ret√¢ngulo: ")
 leia (larg)
 
-escreval  ("Digite o valor da altura do ret‚ngulo")
+escreval  ("Digite o valor da altura do ret√¢ngulo")
 leia (altu)
 
 //PROCESSAMENTO
@@ -22,8 +22,8 @@ leia (altu)
 resulA <- altu * larg
 resulP<- altu*2 + larg*2
 
-//SAÕDA
-escreval("A ·rea do ret‚ngulo È: ", resulA)
-escreval ("O perimetro do retangulo È:", resulP)
+//SA√çDA
+escreval("A √°rea do ret√¢ngulo √©: ", resulA)
+escreval ("O perimetro do retangulo √©:", resulP)
 
 fimalgoritmo
