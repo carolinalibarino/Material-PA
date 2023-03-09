@@ -1,6 +1,6 @@
-algoritmo "comiss„o"
+algoritmo "comiss√£o"
 // Diciplina: PA
-//Professora: CÌntia
+//Professora: C√≠ntia
 //Turma: A
 // Data : 09/03/2023
 // Nome: Carolina
@@ -14,7 +14,7 @@ salfim: real
 inicio
 escreval ("Nome do vendedor:")
 leia (nome)
-escreval ("Sal·rio fixo do vendedor:")
+escreval ("Sal√°rio fixo do vendedor:")
 leia (salfix)
 escreval ("Vendas mensais do vendedor:")
 leia (vendas)
@@ -22,7 +22,7 @@ leia (vendas)
 //PROCESSAMENTO
 salfim <- (15/100* vendas) + salfix
 
-// SAÕDA
-escreval (nome, ", seu sal·rio fixo È:"Çsalfix)
-escreva ( "e seu sal·rio final È:" ,salfim)
+// SA√çDA
+escreval (nome, ", seu sal√°rio fixo √©:"‚Äösalfix)
+escreva ( "e seu sal√°rio final √©:" ,salfim)
 fimalgoritmo
