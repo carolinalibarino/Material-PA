@@ -1,8 +1,8 @@
-algoritmo "Maior de idae ou não"
-// Função :Auto explicativo
+algoritmo "Maior de idae ou nÃ£o"
+// FunÃ§Ã£o :Auto explicativo
 // Autor : Carolina
 // Data : 18/05/2023
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 nome: caractere
 idade: real
@@ -18,11 +18,11 @@ leia (idade)
 //processamento
 
 se (idade>=18) entao
-   escreval (nome, ", você é maior de idade!")
+   escreval (nome, ", vocÃª Ã© maior de idade!")
 
 senao
-escreval ( nome, ",você é menor de idade :(")
+escreval ( nome, ",vocÃª Ã© menor de idade :(")
 
 fimse
-// Seção de Comandos 
+// SeÃ§Ã£o de Comandos 
 fimalgoritmo
