@@ -1,31 +1,31 @@
 algoritmo "Maior ou menor que 10"
-// Função :  auto explicativo
+// FunÃ§Ã£o :  auto explicativo
 // Autor :    Carolina
 // Data : 18/05/2023
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 numero: real
 
 inicio
 
 //inicio
-escreval ("Digite o número:")
+escreval ("Digite o nÃºmero:")
 leia(numero)
 
 //processamento
 
 se(numero>10)entao
 
-   escreval ("O número é maior que 10")
+   escreval ("O nÃºmero Ã© maior que 10")
 
 senao
 
-   escreval ("O número é menor que 10")
+   escreval ("O nÃºmero Ã© menor que 10")
 
 fimse
 
 
 
 
-// Seção de Comandos 
+// SeÃ§Ã£o de Comandos 
 fimalgoritmo
