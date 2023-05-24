@@ -1,8 +1,8 @@
-algoritmo "Média"
-// Função :Aprovar e reprovar
+algoritmo "MÃ©dia"
+// FunÃ§Ã£o :Aprovar e reprovar
 // Autor : Carolina
 // Data : 18/05/2023
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 nome: caractere
 nome1b1: real
@@ -55,13 +55,13 @@ med3 <- (nota1b3+nota2b3)/2
 med4 <- (nota1b4+nota2b4)/2
 
 se (med1>7 e med2>7 )entao
-  escreval(nome,",você foi APROVADO")
+  escreval(nome,",vocÃª foi APROVADO")
   
 senao
-escreval (nome,"você é um tonto, foi REPROVADO")
+escreval (nome,"vocÃª Ã© um tonto, foi REPROVADO")
 
 fimse
 
 
-// Seção de Comandos 
+// SeÃ§Ã£o de Comandos 
 fimalgoritmo
