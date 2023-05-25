@@ -1,8 +1,8 @@
 algoritmo "Saldo"
-// Função : Ver se o saldo é posotivo ou negativo
+// FunÃ§Ã£o : Ver se o saldo Ã© posotivo ou negativo
 // Autor : Carolina
 // Data : 24/05/2023
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 
 saldo: real
@@ -25,10 +25,10 @@ leia (compra3)
 saldoat <- (saldo - compra1 - compra2 - compra3)
 
 se (saldoat >0) entao
-escreval ("Seu saldo é positivo, parabéns!")
+escreval ("Seu saldo Ã© positivo, parabÃ©ns!")
 
 senao
-escreval ("Seu saldo é negativo :(")
+escreval ("Seu saldo Ã© negativo :(")
 
 fimse
 
@@ -37,5 +37,5 @@ fimse
 
 
 
-// Seção de Comandos 
+// SeÃ§Ã£o de Comandos 
 fimalgoritmo
